@@ -1,0 +1,7 @@
+C:\Users\Giovanna\source\repos\Ejercicio_GlobalHitss\WS_CUENTAS_BANCARIAS\bin\WS_CUENTAS_BANCARIAS.dll.config
+C:\Users\Giovanna\source\repos\Ejercicio_GlobalHitss\WS_CUENTAS_BANCARIAS\bin\WS_CUENTAS_BANCARIAS.dll
+C:\Users\Giovanna\source\repos\Ejercicio_GlobalHitss\WS_CUENTAS_BANCARIAS\bin\WS_CUENTAS_BANCARIAS.pdb
+C:\Users\Giovanna\source\repos\Ejercicio_GlobalHitss\WS_CUENTAS_BANCARIAS\obj\Debug\WS_CUENTAS_BANCARIAS.csproj.CoreCompileInputs.cache
+C:\Users\Giovanna\source\repos\Ejercicio_GlobalHitss\WS_CUENTAS_BANCARIAS\obj\Debug\WS_CUENTAS_BANCARIAS.dll
+C:\Users\Giovanna\source\repos\Ejercicio_GlobalHitss\WS_CUENTAS_BANCARIAS\obj\Debug\WS_CUENTAS_BANCARIAS.pdb
+C:\Users\Giovanna\source\repos\Ejercicio_GlobalHitss\WS_CUENTAS_BANCARIAS\obj\Debug\WS_CUENTAS_BANCARIAS.csprojAssemblyReference.cache
